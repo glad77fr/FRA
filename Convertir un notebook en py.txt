@@ -1,0 +1,3 @@
+Dans l'invite de commande taper :
+
+jupyter nbconvert --to my_format "C:\Users\sgasmi\Desktop\Projet IMH\Monnotebook.ipynb"
